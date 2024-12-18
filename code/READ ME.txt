@@ -1,0 +1,5 @@
+This file contain 2 jupyter notebooks :
+
+- kmeans-image-sequencing, that show how to sequence images with kmeans and the result (it corresponds to the first part of my report)
+
+- ddkmeans a new version of kmean that is better (I explain it in the second part of my report)
