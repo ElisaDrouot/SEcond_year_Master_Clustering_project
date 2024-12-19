@@ -12,3 +12,5 @@ The pdf file : Slides_Elisa_Drouot are the slides of the presentation I have mad
 In th code folder you can find :
 The code of ddkmeans and the code of image segmentation
 
+## Contributor
+- **Elisa DROUOT** 
